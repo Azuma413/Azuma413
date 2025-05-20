@@ -1,8 +1,6 @@
 <!-- 1. GitHub usernameを変更 -->
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=Azuma413" />
-  <img height="20" src="https://qiita-badge.apiapi.app/s/Azuma413/posts.svg" />
-  <img height="20" src="https://qiita-badge.apiapi.app/s/Azuma413/contributions.svg" />
 </div>
 
 <!-- 2. プロフィールや連絡先を変更 -->
