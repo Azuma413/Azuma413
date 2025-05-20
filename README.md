@@ -8,11 +8,11 @@
 - I am a Backend, Machine Learning, and Robotics Engineer.
 - I am interested in robot control using machine learning and the integration of mixed reality with robotics.
 - I am a university student.
-- I am also the co-founder of ONIXION.
+- I am also the co-founder of [ONIXION](https://onixion.com/).
 
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=ae,anacondaarduino,blender,c,cs,cpp,discord,docker,gcp,git,github,gitlab,latex,linux,notion,py,pytorch,raspberrypi,ros,ubuntu,unity,unreal,visualstudio,vscode,windows" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=ae,blender,c,cs,cpp,docker,gcp,git,latex,linux,py,pytorch,raspberrypi,ros,ubuntu,unity,unreal" />
 <br>
 
 ## Research
@@ -22,7 +22,8 @@
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 ## 🏃‍♀️ Activities
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=Azuma413&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azuma413&theme=vue-dark&layout=compact" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Azuma413&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Azuma413&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Azuma413&theme=juicyfresh&no-bg=true" />
