@@ -18,7 +18,7 @@
 
 ## Connect with me
 <a href="https://github.com/Azuma413" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FBottomOfMankind)
+<a href="" target="_blank"><img alt="X" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FBottomOfMankind/\"/></a>
 
 <!--https://shields.io/ で作成-->
 
