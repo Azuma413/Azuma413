@@ -22,8 +22,7 @@
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 ## 🏃‍♀️ Activities
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Azuma413&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Azuma413&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Azuma413&theme=juicyfresh&no-bg=true" />
+<div style="display: flex; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Azuma413&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Azuma413&show_icons=true&locale=en&theme=chartreuse-dark" alt="Stats" width="410" />
+</div>
