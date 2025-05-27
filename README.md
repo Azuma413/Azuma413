@@ -9,7 +9,7 @@
 - I am also the co-founder of [ONIXION](https://onixion.com/).
 
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-## 🌱 Skills
+## Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=ae,blender,c,cs,cpp,docker,gcp,git,latex,linux,py,pytorch,raspberrypi,ros,ubuntu,unity,unreal" />
 <br>
 
@@ -23,7 +23,7 @@
 
 <!--https://shields.io/ で作成-->
 
-## 🏃‍♀️ Activities
+## Activities
 <div style="display: flex; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Azuma413&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Langs" />
   <img src="https://github-readme-stats.vercel.app/api?username=Azuma413&show_icons=true&locale=en&theme=chartreuse-dark" alt="Stats" width="410" />
