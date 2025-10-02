@@ -18,7 +18,7 @@
 
 ## Connect with me
 <a href="https://github.com/Azuma413" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-<a href="https://x.com/BottomOfMankind" target="_blank"><img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FBottomOfMankind&label=twitter"></a>
+<a href="https://x.com/hirekatsu0523" target="_blank"><img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2hirekatsu0523&label=twitter"></a>
 <a href="https://www.youtube.com/@%E7%A4%BE%E4%BC%9A%E3%81%AE%E6%AD%AF%E8%BB%8A" target="_blank"><img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCkBj8TydXeXd-OqLS-9QOsw?logo=youtube&label=YouTube"></a>
 
 <!--https://shields.io/ で作成-->
