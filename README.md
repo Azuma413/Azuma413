@@ -6,6 +6,7 @@
 - I am a Backend, Machine Learning, and Robotics Engineer.
 - I am interested in robot control using machine learning and the integration of mixed reality with robotics.
 - I am a Kyoto University student.
+- I am an organizer of the [Kyoto University Physical AI Community (KUPAC)](https://www.kupac.org/).
 - I was the CTO of [ONIXION](https://onixion.com/).
 
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
